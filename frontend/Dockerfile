@@ -1,4 +1,4 @@
-FROM alpine:3.7
+FROM alpine:3.19.6
 
 #create workdir folder
 WORKDIR /tmp/frontend
